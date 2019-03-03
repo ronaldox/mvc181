@@ -93,10 +93,10 @@
 			<artifactId>zkclient</artifactId>
 			<version>0.1</version>
 		</dependency>
-		<!-- dependency>
+		<dependency>
 			<groupId>com.lsy</groupId>
-			<artifactId>springmvcCommon</artifactId>
+			<artifactId>mvcCommon</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency -->
+		</dependency>
 	</dependencies>
 </project>
